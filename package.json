@@ -1,7 +1,10 @@
 {
-  "name": "collecttips",
+  "name": "@tnb369/learnreact",
+  "author": "@tnb369",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": "https://github.com/tnb369/learnreact.git",
+  "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
