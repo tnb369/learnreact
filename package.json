@@ -1,12 +1,20 @@
 {
-  "name": "@tnb369/learnreact",
-  "author": "@tnb369",
+   "name": "@tnb369/learnreact",
+  "author": "tnb <Tuan Nguyen>",
   "version": "0.1.0",
   "private": false,
- "description": "Learn react",
+  "description": "Learn react",
   "main": "index.js",
-  "repository": "https://github.com/tnb369/learnreact.git",
+
   "license": "ISC",
+  "funding": {
+    "type": "GitHub Sponsors ❤",
+    "url": "https://github.com/sponsors/tnb369"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnb369/learnreact.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
