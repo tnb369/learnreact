@@ -3,6 +3,8 @@
   "author": "@tnb369",
   "version": "0.1.0",
   "private": false,
+ "description": "Learn react",
+  "main": "index.js",
   "repository": "https://github.com/tnb369/learnreact.git",
   "license": "ISC",
   "dependencies": {
