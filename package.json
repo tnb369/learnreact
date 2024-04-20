@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnb369/learnreact.git"
+    "url": "https://github.com/tnb369/learnreact.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
