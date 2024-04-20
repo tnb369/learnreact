@@ -1,7 +1,7 @@
 {
    "name": "@tnb369/learnreact",
   "author": "tnb <Tuan Nguyen>",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": false,
   "description": "Learn react",
   "main": "index.js",
