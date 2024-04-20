@@ -5,8 +5,7 @@
   "private": false,
   "description": "Learn react",
   "main": "index.js",
-
-  "license": "ISC",
+  "license": "MIT",
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/tnb369"
@@ -15,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/tnb369/learnreact.git"
   },
+  "homepage": "https://github.com/tnb369/learnreact",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
