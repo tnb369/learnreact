@@ -8,11 +8,17 @@
   "license": "MIT",
   "funding": {
     "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/tnb369"
+    "url": https://github.com/sponsors/tnb369"
+  },
+    "standard": {
+    "ignore": [
+      "/dist",
+      "/node_modules"
+    ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tnb369/learnreact.git"
+   "url": "git+https://github.com/tnb369/learnreact.git"
   },
   "homepage": "https://github.com/tnb369/learnreact",
   "dependencies": {
