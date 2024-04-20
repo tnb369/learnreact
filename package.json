@@ -4,7 +4,7 @@
   "version": "0.1.4",
   "private": false,
   "description": "Learn react",
-  "main": "src/index.js",
+  "main": "index.js",
   "license": "MIT",
   "funding": {
     "type": "GitHub Sponsors ❤",
